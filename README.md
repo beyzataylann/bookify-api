@@ -20,7 +20,7 @@ Proje **Spring Boot** ile geliştirilmiştir.
 
 1. Repository’yi klonlayın:
    ```bash
-   git clone <repo-link>
+   git clone https://github.com/beyzataylann/bookify-api
    cd bookify
    ```
 
